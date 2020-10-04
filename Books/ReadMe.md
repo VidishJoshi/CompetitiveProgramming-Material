@@ -1,1 +1,1 @@
-# Books useful for Competitive Programming
+# Books useful for Competitive Programming.
