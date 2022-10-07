@@ -10,8 +10,7 @@ This is repo containing all the fabulous CP material I've come across.
 * _Basic Combinatorics_ by _Carl G. Wagner_
   * One of the better books on Combinatorics needed and used in competitive programming.
 * _Introduction to Graph Theory_ by _Douglas B. West_
-  * (Not uploaded in this repository...)
-  
+
 ## Code Libraries:
 * Important CP Material
   * Implementation of many(almost all) algorithms required in CP and also for placements.
@@ -20,9 +19,16 @@ This is repo containing all the fabulous CP material I've come across.
 
 ## Code Snippets
 * C++ Snippet
-* Python Snippet 
-  
+* Python Snippet
+* Java Snippet
+
 All contributions are welcome. If you come across any amazing source, do contribute!
+## How to contribute?
+* Fork this repository.
+* Clone the forked repository using `git clone <url>`.
+* Add the material in the respective folder.
+* Make a pull request.
+* Wait for the pull request to be merged :tada:.
 
 ## Maintained By:
 * **Vidish Joshi** - [Profile](https://github.com/VidishJoshi)
